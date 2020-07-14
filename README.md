@@ -1,3 +1,3 @@
 # image_captioning
 
-![Flowchart](Flowchart.png)
+![Flowchart](flowchart.png)
